@@ -585,8 +585,8 @@ a:hover {
   color: #dfd9c6;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  opacity: 0 !important;
+#scrollToTop a {
+  border-radius: 100px;
 }
 #scrollToTop a i:before {
   content: '';
@@ -2144,6 +2144,16 @@ body {
   .cid-qI10Y02mmR .period {
     font-size: 0.8rem;
   }
+}
+.cid-qI22QeZof1 {
+  background-image: url("../../../assets/images/jumbotron2.jpg");
+}
+.cid-qI22QeZof1 H1 {
+  color: #f7ed4a;
+  text-align: center;
+}
+.cid-qI22QeZof1 H3 {
+  color: #ff7f9f;
 }
 .cid-qI0VZVFjLI .navbar {
   padding: .5rem 0;
