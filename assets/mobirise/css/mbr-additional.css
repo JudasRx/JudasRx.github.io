@@ -1599,6 +1599,10 @@ body {
 .cid-qI0VZVFjLI .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-qI0VZVFjLI .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-qI0VZVFjLI .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-qI0VZVFjLI .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-qI0VZVFjLI .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -1693,6 +1697,10 @@ body {
   .cid-qI0VZVFjLI .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
   }
+  .cid-qI0VZVFjLI .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-qI0VZVFjLI .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
+  }
   .cid-qI0VZVFjLI .navbar-collapse.collapsing .navbar-buttons,
   .cid-qI0VZVFjLI .navbar-collapse.show .navbar-buttons {
     text-align: center;
@@ -1760,10 +1768,13 @@ body {
   color: #f7ed4a;
   text-align: center;
 }
+.cid-qI0VZWWiGQ H3 {
+  color: #ff7f9f;
+}
 .cid-qI0VZXXdjz {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #2e2e2e;
+  background-image: url("../../../assets/images/jumbotron.jpg");
 }
 @media (max-width: 767px) {
   .cid-qI0VZXXdjz .content {
@@ -1826,6 +1837,9 @@ body {
     justify-content: center;
     -webkit-justify-content: center;
   }
+}
+.cid-qI0VZXXdjz P {
+  color: #0f7699;
 }
 .cid-qI0XtYWEM5 {
   background-image: url("../../../assets/images/background3.jpg");
@@ -2358,6 +2372,10 @@ body {
 .cid-qI0VZVFjLI .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-qI0VZVFjLI .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-qI0VZVFjLI .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-qI0VZVFjLI .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-qI0VZVFjLI .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -2451,6 +2469,10 @@ body {
   .cid-qI0VZVFjLI .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-qI0VZVFjLI .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
+  }
+  .cid-qI0VZVFjLI .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-qI0VZVFjLI .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-qI0VZVFjLI .navbar-collapse.collapsing .navbar-buttons,
   .cid-qI0VZVFjLI .navbar-collapse.show .navbar-buttons {
